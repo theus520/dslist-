@@ -26,14 +26,14 @@ public class Belonging {
 		this.position = position;
 	}
 
-	public BelongingPk getId() {
-		return id;
-	}
 
 	public void setId(BelongingPk id) {
 		this.id = id;
 	}
 
+	public BelongingPk getId() {
+		return id;
+	}
 	public Integer getPosition() {
 		return position;
 	}
